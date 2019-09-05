@@ -8,3 +8,4 @@
 #1 commit to feature-branch-3
 #2 commit to feature-branch-3
 #3 commit to feature-branch-3
+#1 commit to feature-branch-on-both-subrepos
